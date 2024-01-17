@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Genesis Garban Rojas</h1>
-<h3 align="center">A passionate Backend developer from Venezuela</h3>
+<h3 align="center">A passionate Backend developer</h3>
 
 - 🌱 I’m currently learning **Java, MySql, Mongodb, Spring Boot, Postman.**
 
